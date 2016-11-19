@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: dd502eab3b6a84f1b9d5f3557fc8be69
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Armature
+    100002: armDownL
+    100004: armDownR
+    100006: armL
+    100008: armMidL
+    100010: armMidR
+    100012: armR
+    100014: armUpL
+    100016: armUpR
+    100018: beinDownL
+    100020: beinDownR
+    100022: beinMidL
+    100024: beinMidR
+    100026: beinUpL
+    100028: beinUpR
+    100030: Bone
+    100032: Bone_003
+    100034: Cube
+    100036: hals
+    100038: head1
+    100040: head2
+    100042: head3
+    100044: huefteL
+    100046: huefteR
+    100048: //RootNode
+    100050: Cube_001
+    400000: Armature
+    400002: armDownL
+    400004: armDownR
+    400006: armL
+    400008: armMidL
+    400010: armMidR
+    400012: armR
+    400014: armUpL
+    400016: armUpR
+    400018: beinDownL
+    400020: beinDownR
+    400022: beinMidL
+    400024: beinMidR
+    400026: beinUpL
+    400028: beinUpR
+    400030: Bone
+    400032: Bone_003
+    400034: Cube
+    400036: hals
+    400038: head1
+    400040: head2
+    400042: head3
+    400044: huefteL
+    400046: huefteR
+    400048: //RootNode
+    400050: Cube_001
+    2300000: Cube_001
+    3300000: Cube_001
+    4300000: Cube
+    4300002: Cube_001
+    7400000: Default Take
+    7400002: idle
+    7400004: running
+    9500000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 95
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/armL
+        weight: 1
+      - path: Armature/Bone/armL/armUpL
+        weight: 1
+      - path: Armature/Bone/armL/armUpL/armMidL
+        weight: 1
+      - path: Armature/Bone/armL/armUpL/armMidL/armDownL
+        weight: 1
+      - path: Armature/Bone/armR
+        weight: 1
+      - path: Armature/Bone/armR/armUpR
+        weight: 1
+      - path: Armature/Bone/armR/armUpR/armMidR
+        weight: 1
+      - path: Armature/Bone/armR/armUpR/armMidR/armDownR
+        weight: 1
+      - path: Armature/Bone/hals
+        weight: 1
+      - path: Armature/Bone/hals/head1
+        weight: 1
+      - path: Armature/Bone/hals/head1/head2
+        weight: 1
+      - path: Armature/Bone/hals/head1/head2/head3
+        weight: 1
+      - path: Armature/Bone_003
+        weight: 1
+      - path: Armature/Bone_003/huefteL
+        weight: 1
+      - path: Armature/Bone_003/huefteL/beinUpL
+        weight: 1
+      - path: Armature/Bone_003/huefteL/beinUpL/beinMidL
+        weight: 1
+      - path: Armature/Bone_003/huefteL/beinUpL/beinMidL/beinDownL
+        weight: 1
+      - path: Armature/Bone_003/huefteR
+        weight: 1
+      - path: Armature/Bone_003/huefteR/beinUpR
+        weight: 1
+      - path: Armature/Bone_003/huefteR/beinUpR/beinMidR
+        weight: 1
+      - path: Armature/Bone_003/huefteR/beinUpR/beinMidR/beinDownR
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: running
+      takeName: running
+      firstFrame: -1
+      lastFrame: 95
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/armL
+        weight: 1
+      - path: Armature/Bone/armL/armUpL
+        weight: 1
+      - path: Armature/Bone/armL/armUpL/armMidL
+        weight: 1
+      - path: Armature/Bone/armL/armUpL/armMidL/armDownL
+        weight: 1
+      - path: Armature/Bone/armR
+        weight: 1
+      - path: Armature/Bone/armR/armUpR
+        weight: 1
+      - path: Armature/Bone/armR/armUpR/armMidR
+        weight: 1
+      - path: Armature/Bone/armR/armUpR/armMidR/armDownR
+        weight: 1
+      - path: Armature/Bone/hals
+        weight: 1
+      - path: Armature/Bone/hals/head1
+        weight: 1
+      - path: Armature/Bone/hals/head1/head2
+        weight: 1
+      - path: Armature/Bone/hals/head1/head2/head3
+        weight: 1
+      - path: Armature/Bone_003
+        weight: 1
+      - path: Armature/Bone_003/huefteL
+        weight: 1
+      - path: Armature/Bone_003/huefteL/beinUpL
+        weight: 1
+      - path: Armature/Bone_003/huefteL/beinUpL/beinMidL
+        weight: 1
+      - path: Armature/Bone_003/huefteL/beinUpL/beinMidL/beinDownL
+        weight: 1
+      - path: Armature/Bone_003/huefteR
+        weight: 1
+      - path: Armature/Bone_003/huefteR/beinUpR
+        weight: 1
+      - path: Armature/Bone_003/huefteR/beinUpR/beinMidR
+        weight: 1
+      - path: Armature/Bone_003/huefteR/beinUpR/beinMidR/beinDownR
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

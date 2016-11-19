@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MAZE GAME/scripts/enemyScripts/enemyLogic.cs">
+    <Files>
+      <File FileName="Assets/MAZE GAME/scripts/playerScripts/playerSystem.cs" Line="45" Column="6" />
+      <File FileName="Assets/MAZE GAME/scripts/enemyScripts/enemyLogic.cs" Line="32" Column="85" />
+      <File FileName="Assets/MAZE GAME/scripts/enemyScripts/enemyHealth.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MAZE GAME/scenes/worlds/world1.unity
+  isLoaded: 1
+  isActive: 1
